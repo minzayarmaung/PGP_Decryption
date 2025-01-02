@@ -1,2 +1,2 @@
-# PGP_Encryption
+# PGP_Decryption
 This Repo is for working on PGP Data Encryption
